@@ -28,7 +28,7 @@ export default class extends React.Component {
           <View>
             <Text style={styles.originalPrice}>¥ {rowData.jdPrice}</Text>
           </View>
-          <Text style={styles.remindMe}>提醒我</Text>
+          <Text style={styles.remindMe}>提醒</Text>
         </View>
       </TouchableOpacity>
     )
